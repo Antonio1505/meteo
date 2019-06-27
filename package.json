@@ -2,7 +2,11 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://antonio1505.github.io/website-github/",
+=======
+  "homepage":"https://antonio1505.github.io/website-github/",
+>>>>>>> f6cc57f953b18ccdab7b0933c5e394153094c766
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
@@ -13,8 +17,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "predeploy": "npm run built",
     "deploy": "gh-pages -d build",
+=======
+    "predeploy":"npm run built",
+    "deploy":"gh-pages -d build",
+>>>>>>> f6cc57f953b18ccdab7b0933c5e394153094c766
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
